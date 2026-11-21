@@ -1,0 +1,14 @@
+# 患者影像数据与下载产物（含个人敏感信息，禁止入库）
+*.dcm
+*.zip
+*.bin
+*.json
+.cache/
+预览图/
+影像汇总.html
+下载结果/
+*/Series_*/
+
+# Python
+__pycache__/
+*.pyc
